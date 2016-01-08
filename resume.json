@@ -1,0 +1,208 @@
+{
+  "name": "Dan Hill",
+  "meta": {
+    "format": "FRESH@0.1.0",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": "Software Engineer",
+    "characterClass": "",
+    "brief": "----brief----",
+    "image": ""
+  },
+  "contact": {
+    "website": "http://danhill.us",
+    "phone": "918.798.3517",
+    "email": "mail@danhill.us",
+    "other": []
+  },
+  "location": {
+    "address": "207 School Street",
+    "city": "Martha",
+    "region": "Oklahoma",
+    "code": "73556",
+    "country": "USA"
+  },
+  "social": [
+    {
+      "label": "",
+      "network": "GitHub",
+      "user": "dan-hill",
+      "url": "http://danhill.us/dan-hill"
+    },
+    {
+      "label": "",
+      "network": "Twitter",
+      "user": "danhill",
+      "url": "http://twitter.com/danhill"
+    }
+  ],
+  "employment": {
+    "summary": "",
+    "history": [
+      {
+        "employer": "Lawton Marketing Group",
+        "url": "",
+        "position": "Mobile Website Developer, SEO Specialist",
+        "summary": "",
+        "start": "03/01/2013",
+        "end": "01/01/2014",
+        "keywords": [],
+        "highlights": []
+      }, 
+      {
+        "employer": "Cameron University Career Services",
+        "url": "",
+        "position": "Team Leader",
+        "summary": "",
+        "start": "01/01/2014",
+        "end": "05/01/2014",
+        "keywords": [],
+        "highlights": []
+      },
+            {
+        "employer": "Comanche County Memorial Hospital",
+        "url": "",
+        "position": "Lead Developer",
+        "summary": "",
+        "start": "01/01/2015",
+        "end": "05/01/2015",
+        "keywords": [],
+        "highlights": []
+      },
+            {
+        "employer": "Passpack",
+        "url": "",
+        "position": "Test Engineer",
+        "summary": "",
+        "start": "06/01/2011",
+        "end": "01/01/2016",
+        "keywords": [],
+        "highlights": []
+      }
+    ]
+  },
+  "education": {
+    "summary": "",
+    "level": "Undergraduate",
+    "degree": "Bachelor or Science",
+    "history": [
+      {
+        "institution": "Cameron University",
+        "url": "http://cameron.edu",
+        "start": "01/01/2011",
+        "end": "12/01/2015",
+        "grade": "3.3",
+        "summary": "",
+        "curriculum": []
+      },
+      {
+        "institution": "Western Oklahoma State College",
+        "url": "http://wosc.edu",
+        "start": "01/01/2009",
+        "end": "12/01/2011",
+        "grade": "3.3",
+        "summary": "",
+        "curriculum": []
+      }
+    ]
+  },
+  "service": {
+    "summary": "",
+    "history": [
+      {
+        "flavor": "",
+        "position": "",
+        "organization": "",
+        "url": "",
+        "start": "",
+        "end": "",
+        "summary": "",
+        "highlights": []
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "",
+        "level": "",
+        "skills": []
+      }
+    ],
+    "list": []
+  },
+  "samples": [
+    {
+      "title": "",
+      "summary": "",
+      "url": "",
+      "date": ""
+    }
+  ],
+  "writing": [
+    {
+      "title": "",
+      "flavor": "",
+      "date": "",
+      "publisher": {
+        "name": "",
+        "url": ""
+      },
+      "url": ""
+    }
+  ],
+  "reading": [
+    {
+      "title": "",
+      "flavor": "",
+      "url": "",
+      "author": ""
+    }
+  ],
+  "recognition": [
+    {
+      "flavor": "",
+      "from": "",
+      "title": "",
+      "event": "",
+      "date": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "flavor": "",
+      "private": true,
+      "contact": [
+        {
+          "label": "",
+          "flavor": "",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "",
+      "flavor": "",
+      "quote": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "",
+      "level": "",
+      "years": 0
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "summary": "",
+      "keywords": []
+    }
+  ]
+}

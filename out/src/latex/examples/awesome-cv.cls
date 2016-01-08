@@ -1,0 +1,1 @@
+/home/dan/dev/resume/out/src/latex/awesome-cv.cls
